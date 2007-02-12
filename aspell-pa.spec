@@ -1,5 +1,5 @@
 Summary:	Panjabi dictionary for aspell
-Summary(pl):	S≥ownik pendøabski dla aspella
+Summary(pl.UTF-8):   S≈Çownik pend≈ºabski dla aspella
 Name:		aspell-pa
 Version:	0.01
 %define	subv	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Panjabi dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik pendøabski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik pend≈ºabski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-pa-%{version}-%{subv}
