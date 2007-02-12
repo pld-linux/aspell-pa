@@ -1,5 +1,5 @@
 Summary:	Panjabi dictionary for aspell
-Summary(pl.UTF-8):   Słownik pendżabski dla aspella
+Summary(pl.UTF-8):	Słownik pendżabski dla aspella
 Name:		aspell-pa
 Version:	0.01
 %define	subv	1
