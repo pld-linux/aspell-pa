@@ -6,7 +6,7 @@ Version:	0.01
 Release:	1
 License:	GPL v2+
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/pa/aspell6-pa-%{version}-%{subv}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/pa/aspell6-pa-%{version}-%{subv}.tar.bz2
 # Source0-md5:	de336d6ef55ad6fa81f8903765c6c95d
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60
